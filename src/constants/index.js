@@ -23,6 +23,7 @@ import {
     summiz,
     tailwindcss,
     ARVR_Card,
+    Tinggit_Flutter_App,
     unity,
     blender,
     
@@ -205,5 +206,13 @@ export const projects = [
         description: 'Built a virtual reality forklift training simulator to provide users with a safe, immersive environment to learn and practice forklift operations using VR hardware.',
         link: 'https://github.com/issei1694/VR_Forklift_Simulator',
     },
+    {
+        iconUrl: Tinggit_Flutter_App,
+        theme: 'btn-back-blue',
+        name: 'Tinggit',
+        description: 'Designed and developed Tinggit, an Instagram-style Flutter app built for The Higher Pitch to enhance internal communication among employees through a visually engaging, interactive feed-based platform.',
+        link: 'https://github.com/issei1694/tingit_fluttor_app',
+    }
+
    
 ];

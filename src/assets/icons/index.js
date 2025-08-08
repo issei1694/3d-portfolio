@@ -23,6 +23,7 @@ import forklift from './forklift.svg'
 import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
 import ARVR_Card from './ARVR_Card.svg'
+import Tinggit_Flutter_App from './Tinggit_Flutter_App.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
@@ -55,6 +56,7 @@ export {
     snapgram,
     summiz,
     ARVR_Card,
+    Tinggit_Flutter_App,
     arrow,
     contact,
     soundon,
